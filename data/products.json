@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "P6 LED Video Wall",
+    "category": "LED Technology",
+    "description": "Full-color outdoor LED display with 6mm pixel pitch — perfect for large-scale advertising and events.",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&q=80",
+    "tags": ["IP65 Weatherproof", "160° View Angle", "High Brightness"],
+    "badge": "Best Seller",
+    "order": 1
+  },
+  {
+    "id": 2,
+    "title": "Backlit Acrylic Board",
+    "category": "Acrylic Signage",
+    "description": "Premium laser-cut acrylic letters with LED backlighting for luxury store branding and retail fronts.",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=80",
+    "tags": ["Laser Precision", "UV Resistant", "Custom Shapes"],
+    "badge": "Popular",
+    "order": 2
+  },
+  {
+    "id": 3,
+    "title": "Digital Standee",
+    "category": "Digital Display",
+    "description": "Interactive HD digital standees for retail, hospitality and corporate exhibition environments.",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=80",
+    "tags": ["HD 1080p", "Remote Control", "Slim Design"],
+    "badge": "",
+    "order": 3
+  },
+  {
+    "id": 4,
+    "title": "LED Glow Sign Box",
+    "category": "Glow Signage",
+    "description": "Double-sided illuminated glow sign boxes providing 24/7 brand visibility and powerful presence.",
+    "image": "https://images.unsplash.com/photo-1556761175-b413da4baf72?w=600&q=80",
+    "tags": ["Energy Efficient", "Double-Sided", "Long Lasting"],
+    "badge": "",
+    "order": 4
+  },
+  {
+    "id": 5,
+    "title": "Rotating Solar Signboard",
+    "category": "Solar Signage",
+    "description": "Eco-friendly solar-powered 360° rotating sign — ideal for highways, malls and open locations.",
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&q=80",
+    "tags": ["Solar Powered", "360° Rotation", "Zero Electricity"],
+    "badge": "Eco",
+    "order": 5
+  },
+  {
+    "id": 6,
+    "title": "ACP Name Board",
+    "category": "ACP Signage",
+    "description": "Aluminium composite panel boards with digital UV printing for corporate and retail brand identity.",
+    "image": "https://images.unsplash.com/photo-1487958449943-2429e8be8625?w=600&q=80",
+    "tags": ["Weatherproof", "Rust Free", "UV Coated"],
+    "badge": "",
+    "order": 6
+  }
+]

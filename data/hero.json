@@ -1,0 +1,30 @@
+{
+  "badge": "Welcome To Nagpur's Largest & Vidarbha's #1 Signage Company",
+  "title_line1": "Drishyaam",
+  "title_line2": "Signage Pvt.Ltd.",
+  "subtitle": "Nagpur & Vidarbha's leading signage and advertising solution provider, delivering premium LED displays, acrylic branding, glow sign boards, digital video walls, and innovative outdoor advertising solutions designed to make your business stand out.",
+  "chips": [
+    "LED Boards",
+    "ACP Signage",
+    "Digital Displays",
+    "Solar Rotating"
+  ],
+  "btn1_text": "Get Free Quote",
+  "btn1_link": "#contact",
+  "btn2_text": "WhatsApp Now",
+  "btn2_link": "https://wa.me/917972231388",
+  "stats": [
+    { "label": "Projects Done", "value": 500, "suffix": "+" },
+    { "label": "Years Exp.", "value": 10, "suffix": "+" },
+    { "label": "Happy Clients", "value": 300, "suffix": "+" },
+    { "label": "Cities", "value": 5, "suffix": "+" }
+  ],
+  "bg_image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=1600&q=75",
+  "slider_images": [
+    "https://images.unsplash.com/photo-1517457373958-b7bdd4587205?w=700&q=80",
+    "https://images.unsplash.com/photo-1487014679447-9f8336841d58?w=700&q=80",
+    "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=700&q=80",
+    "https://images.unsplash.com/photo-1519501025264-65ba15a82390?w=700&q=80",
+    "https://images.unsplash.com/photo-1497366216548-37526070297c?w=700&q=80"
+  ]
+}
